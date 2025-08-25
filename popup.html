@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Auto Form Filler</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <style>
+    body {
+      min-width: 300px;
+      padding: 15px;
+      background-color: #f8f9fa;
+    }
+    textarea {
+      resize: none;
+    }
+  </style>
+</head>
+<body>
+  <h5 class="mb-3">Auto TER Filler by Hamja</h5>
+
+  <div class="mb-3">
+    <label for="optionValue" class="form-label">Select Answer Option</label>
+    <select id="optionValue" class="form-select">
+      <option value="1269661">Strongly Agree</option>
+      <option value="1269663">Agree</option>
+      <option value="1269664">Neutral</option>
+      <option value="1269667">Disagree</option>
+      <option value="1269668">Strongly Disagree</option>
+    </select>
+  </div>
+
+  <div class="mb-3">
+    <label class="form-label">What did you like about this teacher?</label>
+    <textarea class="form-control" id="goodComment" rows="2"></textarea>
+  </div>
+
+  <div class="mb-3">
+    <label class="form-label">What did you dislike about this teacher?</label>
+    <textarea class="form-control" id="badComment" rows="2"></textarea>
+  </div>
+
+  <button class="btn btn-primary w-100" id="fillForm">Fill Form</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
