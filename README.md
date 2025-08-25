@@ -49,8 +49,6 @@ That's it! The extension will now appear in your extensions toolbar.
 ## 📦 Files
 
 
-```
-
 ---
 
 ## 📌 Notes
