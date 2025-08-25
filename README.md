@@ -1,5 +1,3 @@
-
-```markdown
 # Auto Form Filler for Teacher Evaluation
 
 This Chrome extension allows you to quickly fill out teacher evaluation forms by:
@@ -50,7 +48,6 @@ That's it! The extension will now appear in your extensions toolbar.
 
 ## 📦 Files
 
-```
 
 ```
 
@@ -86,4 +83,3 @@ Written with ❤️ and JavaScript
 ## 📃 License
 
 This project is free to use and modify for personal or educational purposes.
-```
