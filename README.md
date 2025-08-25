@@ -1,4 +1,3 @@
-### 📄 `README.md`
 
 ```markdown
 # Auto Form Filler for Teacher Evaluation
@@ -52,12 +51,6 @@ That's it! The extension will now appear in your extensions toolbar.
 ## 📦 Files
 
 ```
-
-auto-form-filler/
-├── manifest.json       # Chrome extension manifest (v3)
-├── popup.html          # Bootstrap-based user interface
-├── popup.js            # Core logic to inject values into the form
-├── README.md           # This file
 
 ```
 
