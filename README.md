@@ -72,8 +72,7 @@ No data is collected, stored, or transmitted.
 ---
 
 ## 🧑‍💻 Author
-
-**Mohit Hasan**  
+Md Amir Hamja
 Written with ❤️ and JavaScript
 
 ---
